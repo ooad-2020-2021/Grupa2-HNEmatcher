@@ -1,5 +1,6 @@
 # Grupa2-HNEmatcher
-# love algorithm
+<p align="center"> love algorithm
+  </p>
 
 ![logo](https://i.imgur.com/t21jclF.png)
 
@@ -12,7 +13,7 @@
 Tema ovog projekta je servis za spajanje samaca isključivo sa
 njihovim idealnim partnerima, srodnim dušama po uzoru na Love Solutions
 iz epizode Matchmaker sezone 1 serije "How I met your mother".
-Aplikacija je namjenjena punoljetnim samcima koji traže ozbiljnog partnera za
+Aplikacija je namijenjena punoljetnim samcima koji traže ozbiljnog partnera za
 potencijalni brak, a ne zabavu što je razlikuje od svih ostalih dating site-ova. 
 Postojeće aplikacije su neobavezne, neozbiljne i ne obećavaju sigurnost korisnicima.
 Naša aplikacija nudi pouzdanost i stvarnu kompaktibilnost i ništa manje od 
