@@ -1,5 +1,5 @@
 # Grupa2-HNEmatcher
-<p align="center"> love algorithm
+<p align="center"> #love algorithm
   </p>
 
 ![logo](https://i.imgur.com/t21jclF.png)
