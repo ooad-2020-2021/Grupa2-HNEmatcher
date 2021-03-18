@@ -13,7 +13,7 @@ Tema ovog projekta je servis za spajanje samaca isključivo sa
 njihovim idealnim partnerima, srodnim dušama po uzoru na Love Solutions
 iz epizode Matchmaker sezone 1 serije "How I met your mother".
 Aplikacija je namjenjena punoljetnim samcima koji traže ozbiljnog partnera za
-potencijalni brak, a ne zabavu što je razlikuje od svih ostalih dating site-ova 
+potencijalni brak, a ne zabavu što je razlikuje od svih ostalih dating site-ova. 
 Postojeće aplikacije su neobavezne, neozbiljne i ne obećavaju sigurnost korisnicima.
 Naša aplikacija nudi pouzdanost i stvarnu kompaktibilnost i ništa manje od 
 toga. Umorni ste od beznačajnog dopisivanja sa neprovjerenim korisnicima koji
@@ -30,18 +30,25 @@ Prijavite se!
 ## Funkcionalnosti:
 #### Neregistrovani korisnik:
 * Pristup statistici
-* Pristup feedback-u/blogu
+* Čitanje feedback-a/bloga
 * Mogućnost kontaktiranja administratora
 
 #### Registrovani korisnik:
 * Sve funkcionalnosti neregistrovanog korisnika
 * Mogućnost popunjavanja obrasca za prijavu 
-* 
+* Mogućnost plaćanja za pristup chat-u sa odabranim partnerom najveće kompaktibilnosti
+* Pisanje feedback-a/bloga
+* Ažuriranje računa
+* Ocjenjivanje servisa
 
 #### VIP korisnik:
 * Sve funkcionalnosti registrovanog korisnika
-* 
+* Mogućnost pisanja dodatnih zahtjeva administratoru prilikom popunjavanja obrasca
+* Privilegija uvida u sve potencijalne korisnike sa određenim nivoom kompaktibilnosti i odabir najkompetentnijeg te pristup chat-u s istim
 
 #### Administrator:
-* pregled prijavljenih korisnika
-* brisanje korisničkih računa po potrebi
+* Pregled prijavljenih korisnika
+* Brisanje korisničkih računa po potrebi
+* Ažuriranje procenta kompaktibilnosti na osnovu dodatnih zahtjeva
+* Odobravanje pronađenih poklapanja
+* Odgovaranje na mailove
