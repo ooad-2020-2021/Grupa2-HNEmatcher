@@ -1,6 +1,8 @@
 # Grupa2-HNEmatcher
 # love algorithm
 
+![logo](https://i.imgur.com/t21jclF.png)
+
 ## Tim:
 * [Imamović Elvir](https://github.com/eimamovic2)
 * [Pamuk Hena](https://github.com/hpamuk)
