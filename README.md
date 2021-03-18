@@ -35,11 +35,12 @@ Prijavite se!
 
 #### Registrovani korisnik:
 * Sve funkcionalnosti neregistrovanog korisnika
-* Mogućnost popunjavanja obrasca za prijavu 
+* Mogućnost popunjavanja obrasca za prijavu (vremensko ograničenje za potvrdu prijave putem maila/telefona?)
 * Mogućnost plaćanja za pristup chat-u sa odabranim partnerom najveće kompaktibilnosti
 * Pisanje feedback-a/bloga
 * Ažuriranje računa
-* Ocjenjivanje servisa
+* Brisanje računa
+* Ocjenjivanje servisa (alert prozor)
 
 #### VIP korisnik:
 * Sve funkcionalnosti registrovanog korisnika
@@ -52,3 +53,6 @@ Prijavite se!
 * Ažuriranje procenta kompaktibilnosti na osnovu dodatnih zahtjeva
 * Odobravanje pronađenih poklapanja
 * Odgovaranje na mailove
+
+## Vanjski uređaj:
+Mapa za označavanje prihvatljivog radijusa prilikom popunjavanja obrasca za prijavu.
