@@ -28,3 +28,20 @@ Prijavite se!
 * Administrator
 
 ## Funkcionalnosti:
+#### Neregistrovani korisnik:
+* Pristup statistici
+* Pristup feedback-u/blogu
+* Mogućnost kontaktiranja administratora
+
+#### Registrovani korisnik:
+* Sve funkcijonalnosti neregistrovanog korisnika
+* Mogućnost popunjavanja obrasca za prijavu 
+* 
+
+#### Registrovani korisnik:
+* Sve funkcijonalnosti registrovanog korisnika
+* 
+
+#### Administrator:
+* pregled prijavljenih korisnika
+* brisanje korisničkih računa po potrebi
