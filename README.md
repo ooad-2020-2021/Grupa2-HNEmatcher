@@ -6,8 +6,9 @@
 * [Pamuk Hena](https://github.com/hpamuk)
 * [Skelić Nejla](https://github.com/nskelic)
 
-## Funkcionalnosti: 
+ 
+## Opis teme: 
 
 ## Akteri: 
 
-## Opis teme: 
+## Funkcionalnosti:
