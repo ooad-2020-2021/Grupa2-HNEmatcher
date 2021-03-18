@@ -34,12 +34,12 @@ Prijavite se!
 * Mogućnost kontaktiranja administratora
 
 #### Registrovani korisnik:
-* Sve funkcijonalnosti neregistrovanog korisnika
+* Sve funkcionalnosti neregistrovanog korisnika
 * Mogućnost popunjavanja obrasca za prijavu 
 * 
 
 #### Registrovani korisnik:
-* Sve funkcijonalnosti registrovanog korisnika
+* Sve funkcionalnosti registrovanog korisnika
 * 
 
 #### Administrator:
