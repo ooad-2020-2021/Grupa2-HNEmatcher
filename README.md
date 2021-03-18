@@ -2,8 +2,7 @@
 # <p align="center"> love algorithm
   </p>
 
-<img align="right" src="https://i.imgur.com/t21jclF.png" alt="logo">
-
+![logo](https://i.imgur.com/t21jclF.png)
 
 ## Tim:
 * [Imamović Elvir](https://github.com/eimamovic2)
