@@ -2,7 +2,7 @@
 # <p align="center"> love algorithm
   </p>
 
-<img align="center" src="https://i.imgur.com/t21jclF.png" alt="logo">
+<img align="right" src="https://i.imgur.com/t21jclF.png" alt="logo">
 
 
 ## Tim:
