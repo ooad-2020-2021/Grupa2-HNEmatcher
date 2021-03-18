@@ -38,7 +38,7 @@ Prijavite se!
 * Mogućnost popunjavanja obrasca za prijavu 
 * 
 
-#### Registrovani VIP korisnik:
+#### VIP korisnik:
 * Sve funkcionalnosti registrovanog korisnika
 * 
 
