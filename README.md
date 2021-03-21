@@ -56,4 +56,8 @@ Prijavite se!
 * Odgovaranje na mailove
 
 ## Vanjski uređaj:
-Mapa za označavanje prihvatljivog radijusa prilikom popunjavanja obrasca za prijavu.
+- Mapa za označavanje prihvatljivog radijusa prilikom popunjavanja obrasca za prijavu
+- Kartično plaćanje
+
+## Dodatni zahtjevi
+* Korisnik mora biti punoljetan
