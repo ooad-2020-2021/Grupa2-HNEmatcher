@@ -59,5 +59,6 @@ Prijavite se!
 - Mapa za označavanje prihvatljivog radijusa prilikom popunjavanja obrasca za prijavu
 - Kartično plaćanje
 
-## Dodatni zahtjevi
+## Nefunkcionalni zahtjevi
 * Korisnik mora biti punoljetan
+* Obavezno odgovaranje na sva pitanja obrasca za prijavu
