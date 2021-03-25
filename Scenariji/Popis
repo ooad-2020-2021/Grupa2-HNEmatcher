@@ -1,0 +1,6 @@
+Najkompleksnije funkcionalnosti u sistemu za koje ćemo kreirati scenarije slučajeva upotrebe:
+1. Registracija (zbog zahtjeva za punoljetstvom i odabira vip pogodnosti što vodi do kartičnog plaćanja)
+2. Popunjavanje obrasca (zbog 72-satne validacije i zahtjeva za kompletno popunjenim obrascem)
+3. Plaćanje usluge za pristup chatu (zbog kartičnog plaćanja i vremenskog ograničenja za uplatu?)
+4. Brisanje računa 
+5. Uređivanje računa (zbog toga što imamo 2 aktera tj. administrator mora dopustiti uređivanje)
