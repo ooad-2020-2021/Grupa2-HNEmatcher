@@ -1,4 +1,4 @@
-using LoveAlgorithm.Data;
+﻿using LoveAlgorithm.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -34,6 +34,9 @@ namespace LoveAlgorithm
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
+
+            services.AddDbContext<LoveAlgorithmContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("LoveAlgorithmContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
