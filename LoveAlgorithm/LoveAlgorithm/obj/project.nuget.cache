@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5pyfd9wIxw52RmWwTNqpk9Y5G8tc6GwDnnj2TYMNjZ4z2kPmm5qM7KMI1wx/j1vMY1PPMJ+moaDFAs79MHFhZQ==",
+  "dgSpecHash": "EvNGrCExSF4UPkJKrubGhIvoWtJ36BanSuxMa6eL1KZSdl3uIY0fnPUd3uGddbXta2EPgvu5EJL60pIIH6bVwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\XY\\source\\repos\\LoveAlgorithm\\LoveAlgorithm\\LoveAlgorithm.csproj",
+  "projectFilePath": "C:\\Users\\XY\\Source\\Repos\\Grupa2-HNEmatcher\\LoveAlgorithm\\LoveAlgorithm\\LoveAlgorithm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\XY\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.12\\microsoft.aspnetcore.cryptography.internal.3.1.12.nupkg.sha512",
     "C:\\Users\\XY\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.12\\microsoft.aspnetcore.cryptography.keyderivation.3.1.12.nupkg.sha512",

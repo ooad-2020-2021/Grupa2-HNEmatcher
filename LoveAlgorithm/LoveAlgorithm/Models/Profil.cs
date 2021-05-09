@@ -7,6 +7,6 @@ namespace LoveAlgorithm.Models
 {
     interface Profil
     {
-
+         
     }
 }

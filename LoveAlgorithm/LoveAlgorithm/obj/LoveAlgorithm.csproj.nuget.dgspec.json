@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\XY\\source\\repos\\LoveAlgorithm\\LoveAlgorithm\\LoveAlgorithm.csproj": {}
+    "C:\\Users\\XY\\Source\\Repos\\Grupa2-HNEmatcher\\LoveAlgorithm\\LoveAlgorithm\\LoveAlgorithm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\XY\\source\\repos\\LoveAlgorithm\\LoveAlgorithm\\LoveAlgorithm.csproj": {
+    "C:\\Users\\XY\\Source\\Repos\\Grupa2-HNEmatcher\\LoveAlgorithm\\LoveAlgorithm\\LoveAlgorithm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\XY\\source\\repos\\LoveAlgorithm\\LoveAlgorithm\\LoveAlgorithm.csproj",
+        "projectUniqueName": "C:\\Users\\XY\\Source\\Repos\\Grupa2-HNEmatcher\\LoveAlgorithm\\LoveAlgorithm\\LoveAlgorithm.csproj",
         "projectName": "LoveAlgorithm",
-        "projectPath": "C:\\Users\\XY\\source\\repos\\LoveAlgorithm\\LoveAlgorithm\\LoveAlgorithm.csproj",
+        "projectPath": "C:\\Users\\XY\\Source\\Repos\\Grupa2-HNEmatcher\\LoveAlgorithm\\LoveAlgorithm\\LoveAlgorithm.csproj",
         "packagesPath": "C:\\Users\\XY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\XY\\source\\repos\\LoveAlgorithm\\LoveAlgorithm\\obj\\",
+        "outputPath": "C:\\Users\\XY\\Source\\Repos\\Grupa2-HNEmatcher\\LoveAlgorithm\\LoveAlgorithm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\XY\\AppData\\Roaming\\NuGet\\NuGet.Config",
