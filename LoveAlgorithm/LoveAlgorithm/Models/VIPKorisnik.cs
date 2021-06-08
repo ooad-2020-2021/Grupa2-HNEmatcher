@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace LoveAlgorithm.Models
 {
-    public class VIPKorisnik
+    public class VIPKorisnik : RegistrovaniKorisnik
     {
         public string DodatniZahtjevi { get; set; }
     }
